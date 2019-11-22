@@ -28,7 +28,7 @@ boolean tempUnits = 1;            // Fahrenheit = 1, Celsius = 0
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //~~~~~ Chose your backlight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#define BACKLIGHT   1             // Motion color = 1, Static color = 0
+boolean backlightEffect = 1;            // Motion color = 1, Static color = 0
 CRGB COLOR = CRGB(0,0,255);       // Choose your own color
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -56,11 +56,11 @@ static uint8_t colorIndex = 0;
 #define DHTTYPE     DHT22         // Sensor type
 DHT dht(DHTPIN, DHTTYPE);         // Initialize DHT sensor
 
-float tempDHT_C = 0;              // Celsius temperature 
-float tempDHT_F = 0;              // Fahrenheit temperature  
-float humDHT    = 0;              // Humidity
+float tempDHT_C     = 0;          // Celsius temperature 
+float tempDHT_F     = 0;          // Fahrenheit temperature  
+float humDHT        = 0;          // Humidity
 
-boolean tempHum   = 1;            // "1" - display temperature (default), "0" - display humidity
+boolean tempHum     = 1;          // "1" - display temperature (default), "0" - display humidity
 //***************************************************************************************************
 
 //***************************************************************************************************
@@ -394,7 +394,7 @@ void DisplayHumidity()
 
 void SetBacklightColor()
 {
-    if (BACKLIGHT == 1) // Motion color
+    if (backlightEffect == 1) // Motion color
     {
         currentPalette = RainbowColors_p;
         currentBlending = LINEARBLEND;
