@@ -28,8 +28,8 @@
 
 #define BACKLIGHT   1             // Motion color = 1, Static color = 0
 CRGB COLOR = CRGB(0,0,255);       // Choose your own color
-                                  // https://github.com/FastLED/FastLED/wiki/Gradient-color-palettes         
-CRGBPalette16 currentPalette;     
+         
+CRGBPalette16 currentPalette;     // https://github.com/FastLED/FastLED/wiki/Gradient-color-palettes     
 TBlendType    currentBlending;
 
 static uint8_t colorIndex = 0;
