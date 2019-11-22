@@ -61,7 +61,7 @@ byte nixie6[]={
 
 void setup() 
 {  
-    pinMode(dataPin, OUTPUT);       // Nixie driver serial data input 
+    pinMode(dataPin, OUTPUT);        // Nixie driver serial data input 
     digitalWrite(dataPin, LOW);    
     
     pinMode(clockPin, OUTPUT);       // Nixie driver data shift register clock input 
