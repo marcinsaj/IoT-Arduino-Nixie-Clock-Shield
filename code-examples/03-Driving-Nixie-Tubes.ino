@@ -75,8 +75,6 @@ void setup()
     // Important power-up safety delay for LEDs
     delay(3000); 
 
-    Serial.begin(115200);
-
     // Limit draw to 150mA at 5V of power draw
     FastLED.setMaxPowerInVoltsAndMilliamps(5,150);
     
