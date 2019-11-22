@@ -1,10 +1,12 @@
 // IoT Arduino Nixie Clock Shield by Marcin Saj https://nixietester.com
 // https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield
 //
-// Driving Nixie Tubes Example
+// Classic Nixie Clock Example
 //
-// This example demonstrates how to display digits on nixie tubes.
-// The control is carried out using eight HCT595 shift registers and high voltage transistors.
+// This example demonstrates how to set the RTC time, read time from RTC and display on nixie tubes.
+// The user has the choice of 12 or 24 hour display format.
+// Serial monitor is required to display basic options.
+// DS3231 RTC datasheet: https://datasheets.maximintegrated.com/en/ds/DS3231.pdf
 //
 // Hardware:
 // Arduino Uno/Nano/Micro 
