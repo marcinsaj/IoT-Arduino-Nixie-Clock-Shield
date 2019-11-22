@@ -25,12 +25,15 @@ CRGB leds[NUM_LEDS];          // Define the array of LEDs
 #define clockPin   8          // Clock pin
 #define latchPin   7          // Latch pin
 
-// Bit states for Nixie Power Supply module control
-#define ON         0          // ON  - set bit no.32 in nixieDisplayArray to 0
-#define OFF        1          // OFF - set bit no.32 in nixieDisplayArray to 1   
+// Bit states for Nixie Power Supply module control and dot1 & dot2 state
+#define ON         1          
+#define OFF        0             
 
+byte dot1 = 26;       // Dot cathode - IN-12B nixie tube no.3
+byte dot2 = 53;       // IN-12B nixie tube no.5
+byte EN   = 32;       // Enable bit number for NPS Nixie Power Supply module  
 
-// Bit array for 6 nixie tubes, dot1, dot2, EN - enable NPS Nixie Power Supply module
+// Bit array for 6 nixie tubes, dot1, dot2, EN
 boolean nixieDisplayArray[64];
 
 // Cathodes assignment to the position in the 64 bit array
@@ -54,11 +57,6 @@ byte nixie5[]={
 byte nixie6[]={
 //   0   1   2   3   4   5   6   7   8   9  
     60, 59, 58, 57, 50, 49, 48, 63, 62, 61  };
-
-
-byte dot1 = 26;       // Dot cathode - IN-12B nixie tube no.3
-byte dot2 = 53;       // IN-12B nixie tube no.5
-byte EN   = 32;       // Enable (bit number) NPS Nixie Power Supply module  
 
 
 void setup() 
@@ -93,8 +91,6 @@ void setup()
     NixieTubes(ON);
 }
 
-
-
 void loop ()
 {
     // Do simple counting
@@ -102,7 +98,14 @@ void loop ()
     {
         // 6 digits
         NixieDisplay(i, i, i, i, i, i);
-        delay(1000);         
+        
+        // Dots
+        SetDot(dot1, ON);
+        SetDot(dot2, OFF);
+        delay(500);  
+        SetDot(dot1, OFF);
+        SetDot(dot2, ON);
+        delay(500);         
     }
 }
 
@@ -143,10 +146,11 @@ void NixieDisplay(byte digit1, byte digit2, byte digit3, byte digit4, byte digit
     ShiftOutData();
 
 }
-void NixieTubes(boolean ONOFF)
+void NixieTubes(boolean onoff)
 {
-    // Enablr/Disable NPS Nixie Power Supply module
-    nixieDisplayArray[EN] = ONOFF;
+    // Enable/Disable NPS Nixie Power Supply module
+    // Negation because "0" for NPS module turn on and "1" for turn off
+    nixieDisplayArray[EN] = !onoff;
     ShiftOutData();
 }
 
@@ -176,4 +180,11 @@ void ShiftOutData()
     
     // Stop shifting
     digitalWrite(clockPin, 0);     
+}
+
+void SetDot(byte dot, boolean onoff)
+{
+    // Turn ON/OFF dot1 or dot2
+    nixieDisplayArray[dot] = onoff;
+    ShiftOutData();      
 }
