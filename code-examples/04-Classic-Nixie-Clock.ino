@@ -27,7 +27,7 @@
 #define UPDATES_PER_SECOND 10     // Updates per second 1-100
 
 #define BACKLIGHT   1             // Motion color = 1, Static color = 0
-CRGB COLOR = CRGB(0,0,255);       // Choose your own color
+CRGB COLOR = CRGB(0,0,255);       // Choose your own static color
          
 CRGBPalette16 currentPalette;     // https://github.com/FastLED/FastLED/wiki/Gradient-color-palettes     
 TBlendType    currentBlending;
