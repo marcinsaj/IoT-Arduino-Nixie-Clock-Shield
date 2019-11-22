@@ -17,7 +17,7 @@
 #include <RTClib.h>               // https://github.com/adafruit/RTClib
 
 // Choose Time Format
-#define HH    12                  // 12 Hour Clock or 24 Hour Clock
+#define HH          12            // 12 Hour Clock or 24 Hour Clock
 
 #define LED_PIN     A0            // Data pin that LEDs data will be written out over
 #define NUM_LEDS    6             // LEDs using for RGB Calibration
@@ -36,13 +36,13 @@ static uint8_t colorIndex = 0;
 
 CRGB leds[NUM_LEDS];              // Define the array of LEDs
 
-#define dataPin    9              // HCT595 shift register serial data pin             
-#define clockPin   8              // Clock pin
-#define latchPin   7              // Latch pin
+#define dataPin     9             // HCT595 shift register serial data pin             
+#define clockPin    8             // Clock pin
+#define latchPin    7             // Latch pin
 
 // Bit states for Nixie Power Supply module control and dot1 & dot2 state
-#define ON         1          
-#define OFF        0 
+#define ON          1          
+#define OFF         0 
 
 RTC_DS3231 rtc;
 
