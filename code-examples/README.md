@@ -1,4 +1,4 @@
-##Code examples in progress:
+## Code example in progress:
 - 06-Classic-Nixie-Thermometer-Hygrometer
 - 07-Nixie-Clock-Thermometer
 - 08-WiFi-NTP-Nixie-Clock
