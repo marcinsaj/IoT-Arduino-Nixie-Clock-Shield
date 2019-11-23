@@ -11,3 +11,8 @@
 - 10-IoT-Nixie-Clock
 - 11-IoT-Arduino-Cloud-Nixie-Clock-Thermometer
 - 12-IoT-Alexa-Nixie-Clock
+
+
+RTCZero.h
+WiFiNINA.h
+ArduinoIoTCloud.h
