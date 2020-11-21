@@ -28,7 +28,7 @@ boolean tempUnits = 1;            // Fahrenheit = 1, Celsius = 0
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //~~~~~ Chose your backlight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-boolean backlightEffect = 1;            // Motion color = 1, Static color = 0
+boolean backlightEffect = 1;      // Motion color = 1, Static color = 0
 CRGB COLOR = CRGB(0,0,255);       // Choose your own color
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
