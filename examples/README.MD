@@ -6,10 +6,6 @@ Example program codes are divided into individual steps to better understand the
 4. Classic Nixie Clock - **ready**
 5. Classic Nixie Clock with Slot Machine Effect - **ready**
 6. Classic Nixie Thermometer Hygrometer - **ready**
-7. Classic Nixie Clock & Thermometer – work in progress
-8. WiFi NTP Nixie Clock – work in progress
-9. IoT Arduino Cloud Test – work in progress
-10. IoT Arduino Cloud Nixie Clock – work in progress
-11. IoT Arduino Cloud Nixie Clock & Thermometer – work in progress
-12. Arduino Cloud & Google Sheets via Webhook – work in progress
-13. IoT Alexa – work in progress
+7. WiFi NTP Nixie Clock – work in progress
+8. IoT Arduino Cloud Nixie Clock – work in progress
+9. IoT Alexa Arduino Cloud Nixie Clock – work in progress
