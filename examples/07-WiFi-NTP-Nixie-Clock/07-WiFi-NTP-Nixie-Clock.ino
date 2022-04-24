@@ -83,6 +83,10 @@ CRGB leds[NUM_LEDS];                      // Define the array of LEDs
 #define clockPin    8                     // Clock pin
 #define latchPin    7                     // Latch pin
 
+// Bit states for Nixie Power Supply module control
+#define ON          1          
+#define OFF         0 
+
 // Serial monitor state
 boolean serialState = 0;
 
