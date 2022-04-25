@@ -34,3 +34,4 @@
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/images/34.png"></p>
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/images/35.png"></p>
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/images/37.png"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/images/38.png"></p>
