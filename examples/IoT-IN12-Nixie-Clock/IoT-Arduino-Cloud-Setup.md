@@ -1,14 +1,23 @@
 # Just follow the instructions
 ## Open free IoT Arduino Cloud account: https://create.arduino.cc/iot
 ## Create your first Thing
+
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/images/01.png"></p>
+
 ## Select Device
+
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/images/02.png"></p>
+
 ## Add new device
+
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/images/03.png"></p>
+
 ## Connect Arduino Nano 33 IoT to your computer
+
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/images/04.png"></p>
+
 ## Configure
+
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/images/05.png"></p>
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/images/06.png"></p>
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/images/07.png"></p>
