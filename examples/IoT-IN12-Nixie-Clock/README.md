@@ -1,5 +1,5 @@
-If you decide to use the Arduino Cloud Code Editor then use only this code: <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/IoT-IN12-Nixie-Clock.ino">"IoT-IN12-Nixie-Clock.ino"</a> and follow this <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/IoT-Arduino-Cloud-Setup.md">"instructions"</a>.
-Optional Alexa setup can be found <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/IoT-Arduino-Cloud-Alexa-Setup.md">"here"</a>
+If you decide to use the Arduino Cloud Code Editor then use only this code: <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/IoT-IN12-Nixie-Clock.ino">IoT-IN12-Nixie-Clock.ino</a> and follow this <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/IoT-Arduino-Cloud-Setup.md">instructions</a>.
+Optional Alexa setup can be found <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/IoT-Arduino-Cloud-Alexa-Setup.md">here</a>.
 
 
 
