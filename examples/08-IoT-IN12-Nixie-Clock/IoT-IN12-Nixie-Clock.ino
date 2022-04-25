@@ -1,3 +1,22 @@
+// IoT Arduino Nixie Clock Shield by Marcin Saj https://nixietester.com
+// https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield
+//
+// IoT IN12 Nixie CLock
+// This example demonstrates how to use Arduino IoT Cloud Dashboard
+// and optional Amazon Alexa Assistant to control IoT IN12 Nixie Clock
+// Control options: 
+// - ON/OFF Nixie Clock, 
+// - Backlight - ON/OFF, Color, Brightness.
+// 
+// Serial monitor is required to debug Arduino IoT Cloud connection
+//
+// Hardware:
+// WiFi signal
+// IN12 Nixie Clock - https://nixietester.com/project/iot-nixie-clock-shield-for-arduino
+// Arduino Nano IoT 33 - https://store.arduino.cc/arduino-nano-33-iot
+// Nixie Power Supply Module
+// Nixie clock require 12V, 1A power supply
+
 #include "arduino_secrets.h"
 #include "thingProperties.h"
 
