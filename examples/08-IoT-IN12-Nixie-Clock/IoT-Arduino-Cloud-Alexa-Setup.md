@@ -13,14 +13,14 @@
 - "Alexa set Backlight on 50%"
 
 
-<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_01.jpg" width="600px"></p>
-<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_02.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_03.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_04.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_05.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_06.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_07.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_08.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_09.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_10.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_11.jpg"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_01.jpg" width="500px"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_02.jpg" width="500px"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_03.jpg" width="500px"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_04.jpg" width="500px"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_05.jpg" width="500px"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_06.jpg" width="500px"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_07.jpg" width="500px"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_08.jpg" width="500px"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_09.jpg" width="500px"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_10.jpg" width="500px"></p>
+<p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_11.jpg" width="500px"></p>
