@@ -13,7 +13,7 @@
 - "Alexa set Backlight on 50%"
 
 
-<p align="center" width="500px"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_01.jpg"></p>
+<p align="center" width="200px"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_01.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_02.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_03.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/08-IoT-IN12-Nixie-Clock/images/Alexa_04.jpg"></p>
