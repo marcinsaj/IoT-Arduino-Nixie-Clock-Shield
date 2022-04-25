@@ -1,3 +1,7 @@
+Arduino mobile app
+   - Android - https://bit.ly/arduino-android-app
+   - iOS - https://bit.ly/arduino-ios-app
+
 If you decide to use the Arduino Cloud Code Editor then use only this code: <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/IoT-IN12-Nixie-Clock.ino">IoT-IN12-Nixie-Clock.ino</a> and follow this <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/IoT-Arduino-Cloud-Setup.md">instructions</a>.
 <br/>Optional Alexa setup can be found <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/IoT-Arduino-Cloud-Alexa-Setup.md">here</a>.
 
