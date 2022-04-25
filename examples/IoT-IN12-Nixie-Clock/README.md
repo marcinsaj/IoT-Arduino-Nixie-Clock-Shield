@@ -10,7 +10,7 @@ If you decide to use the Arduino Cloud Code Editor then use only this code: <a t
 If you use Arduino IDE offline software then you should download folowing files into one folder "IoT-IN12-Nixie-Clock":
    - <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/IoT-IN12-Nixie-Clock.ino">IoT-IN12-Nixie-Clock.ino</a>
    - <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/arduino-secrets.h">arduino-secrets.h</a>
-   - t<a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/thingProperties.h">thingProperties.h</a>
+   - <a target="_blank" href="https://github.com/marcinsaj/IoT-Arduino-Nixie-Clock-Shield/blob/master/examples/IoT-IN12-Nixie-Clock/thingProperties.h">thingProperties.h</a>
    - 
 Open "arduino-secrets.h" and "thingProperties.h" and edit the required informations:
    - define SECRET_SSID "type here your wifi network name"
